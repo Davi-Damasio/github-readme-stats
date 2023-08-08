@@ -430,6 +430,13 @@ export const themes = {
     border_color: "ffffff",
     bg_color: "000000",
   },
+    davimode: {
+    title_color: "08d800",
+    text_color: "6dcaff",
+    icon_color: "0088d0",
+    border_color: "ffffff",
+    bg_color: "000000",
+  },
 };
 
 export default themes;
